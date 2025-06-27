@@ -1,7 +1,7 @@
 
 # CRUD - NEXT-JS
 
-Projeto para pratica do conhecimendo adquirido no curso da cod3r em react.js.
+Projeto para pratica do conhecimendo adquirido no curso da cod3r em  next.js(React).
 
 ## Funcionalidades
 
